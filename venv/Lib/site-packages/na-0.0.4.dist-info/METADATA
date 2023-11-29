@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: na
+Version: 0.0.4
+Summary: Functions and script to peek into the callable/argument structure of a set of callables
+Home-page: https://github.com/thorwhalen/uu/tree/master/na
+Author: Thor Whalen
+License: apache-2.0
+Platform: any
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+# na
+Functions and script to peek into the callable/argument structure of a set of callables
+
+
+To install:	```pip install na```
+
+
